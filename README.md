@@ -4,7 +4,7 @@
 
 **`Sobre Mim`**
 
-Sou estudante de Arquitetura de Dados, cursando o 3º semestre na Faculdade Pitágoras Anhanguera, com forte base em análise e gerenciamento de dados. Certificada em Análise de Dados pelo Google e especializada em Gerenciamento de Bancos de Dados, possuo domínio de ferramentas como SQL, Python, R, Power BI e Excel. Minha paixão é transformar grandes volumes de dados em insights estratégicos que impulsionam decisões. Estou sempre em busca de projetos desafiadores, focados em modelagem de dados, criação de dashboards e soluções visuais que agreguem valor real ao negócio.
+Sou estudante de Arquitetura de Dados, cursando o 3º semestre na Faculdade Pitágoras Anhanguera, com forte base em análise e gerenciamento de dados. Certificada em Análise de Dados pela empresa Google e especializada em Gerenciamento de Bancos de Dados, possuo domínio de ferramentas como SQL, Python, R, Power BI e Excel. Minha paixão é transformar grandes volumes de dados em insights estratégicos que impulsionam decisões. Estou sempre em busca de projetos desafiadores, focados em modelagem de dados, criação de dashboards e soluções visuais que agreguem valor real ao negócio.
 
 **`Para entrar em contato comigo, utilize:`**
 <div align="center">  
