@@ -4,8 +4,9 @@
 
 **`Sobre Mim`**
 
-Sou estudante de Arquitetura de Dados, atualmente no 3º semestre na Faculdade Pitágoras Anhanguera, com uma sólida base em análise e gerenciamento de dados. Possuo certificações em Análise de Dados pelo Google e especializações em Gerenciamento de Bancos de Dados. Com habilidades avançadas em SQL, Python, R, Power BI e Excel, estou focada em transformar grandes volumes de dados em insights estratégicos que impulsionam a tomada de decisões. Busco aplicar meus conhecimentos em projetos que envolvam modelagem de dados, criação de dashboards e soluções de visualização eficientes, visando sempre agregar valor ao negócio .
+Sou estudante de Arquitetura de Dados, cursando o 3º semestre na Faculdade Pitágoras Anhanguera, com forte base em análise e gerenciamento de dados. Certificada em Análise de Dados pelo Google e especializada em Gerenciamento de Bancos de Dados, possuo domínio de ferramentas como SQL, Python, R, Power BI e Excel. Minha paixão é transformar grandes volumes de dados em insights estratégicos que impulsionam decisões. Estou sempre em busca de projetos desafiadores, focados em modelagem de dados, criação de dashboards e soluções visuais que agreguem valor real ao negócio.
 
+**`Para entrar em contato comigo, utilize:`**
 <div align="center">  
 <a href="https://www.linkedin.com/in/beattriz-oliveira-595a57319/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://drive.google.com/file/d/1Hbpv4JjH4CJN_pkNnKbhIpc2KtdLynVw/view?usp=drivesdk" target="_blank"><img src="https://img.shields.io/badge/Curr%C3%ADculo-4B8BF4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo"></a>
@@ -23,10 +24,9 @@ Sou estudante de Arquitetura de Dados, atualmente no 3º semestre na Faculdade P
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Beattriz-Oliveira&bg_color=201f1f&color=ffc296&line=f3f3f3&point=f78270&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 ### Main skills:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)&nbsp;
+![R](https://img.shields.io/badge/-R-0D1117?style=for-the-badge&logo=r&logoColor=white&labelColor=0D1117)
+
  
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
