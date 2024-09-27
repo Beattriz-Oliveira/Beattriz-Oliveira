@@ -11,7 +11,7 @@ Sou estudante de Arquitetura de Dados, atualmente no 3º semestre na Faculdade P
 <a href="https://drive.google.com/file/d/1Hbpv4JjH4CJN_pkNnKbhIpc2KtdLynVw/view?usp=drivesdk" target="_blank"><img src="https://img.shields.io/badge/Curr%C3%ADculo-4B8BF4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo"></a>
 <a href="https://wa.me/5562986239094" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 <a href = "mailto:Beattrizsantana1452@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/andreinaoliveira" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/Beattriz-Oliveira" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 </div> 
 
