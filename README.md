@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f78270&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffc296&size=35&center=true&vCenter=true&width=1000&lines=Oi,Eu+Sou+a+Beattriz+Oliveira;Seja+Bem+Vindo(a)!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffc296&size=35&center=true&vCenter=true&width=1000&lines=OlÃ¡,eu+sou+a+Beattriz+Oliveira;Seja+bem+vindo(a)!+:%29)](https://git.io/typing-svg) 
 
 **`Sobre Mim`**
 
@@ -21,7 +21,6 @@ Sou estudante de Arquitetura de Dados, cursando o 3Âº semestre na Faculdade PitÃ
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beattriz-Oliveira&layout=compact&hide_border=true&title_color=ffc296&text_color=f3f3f3&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Beattriz-Oliveira&bg_color=201f1f&color=ffc296&line=f3f3f3&point=f78270&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 ### Habilidades:
 <div align="left">
@@ -29,15 +28,8 @@ Sou estudante de Arquitetura de Dados, cursando o 3Âº semestre na Faculdade PitÃ
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R logo" /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" /><img width="12" />
  
-### Tools:
-
- 
-### Other Knowledge:
-
-  
 ### Estudando no momento:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftpowerbi/microsoftpowerbi-original.svg" height="30" alt="Power BI logo" />
-<img width="12" />;
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="Power BI logo" /><img width="12" />
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f78270&height=120&section=footer"/>
