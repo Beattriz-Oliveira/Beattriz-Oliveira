@@ -41,12 +41,7 @@ Sou estudante de Arquitetura de Dados, cursando o 3º semestre na Faculdade Pit�
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="Power BI logo" /><img width="12" />
 </div> 
 
----
 
-**`MEU CURRÍCULO:`**
-<div align="left">  
-<a href="https://drive.google.com/file/d/1Hbpv4JjH4CJN_pkNnKbhIpc2KtdLynVw/view?usp=drivesdk" target="_blank"><img src="https://img.shields.io/badge/Curr%C3%ADculo-4B8BF4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo"></a>
-</div> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f78270&height=120&section=footer"/>
 
