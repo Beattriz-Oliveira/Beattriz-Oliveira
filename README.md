@@ -30,16 +30,18 @@ Sou estudante de Arquitetura de Dados, cursando o 3º semestre na Faculdade Pit�
  
 **`HABILIDADES:`**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" /><img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R logo" /><img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" /><img width="12" />
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-mysql-18-1174938.png?f=webp&w=256" alt="Logo do MySQL" height="30" style="margin-right: 12px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R logo" style="margin-right: 12px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" style="margin-right: 12px;" />
 </div> 
 
 ---
 
 **`ESTUDANDO NO MOMENTO:`**
 <div align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="Power BI logo" /><img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="Power BI logo" style="margin-right: 12px;" />
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/oracle-icon.png" alt="Ícone do Oracle" height="30" style="margin-right: 12px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo" style="margin-right: 12px;" />
 </div> 
 
 
