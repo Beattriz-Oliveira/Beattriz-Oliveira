@@ -23,14 +23,11 @@
 
 ## ✦ Sobre mim
 
-Sou Analista de Business Intelligence com formação em **Arquitetura de Dados** e certificações em **DBA** e **Análise de Dados** — uma combinação que me permite atuar em todas as camadas do ciclo de vida dos dados.
+Olá, sou Beattriz Sant’ana, Analista de BI apaixonada por transformar dados brutos em inteligência estratégica. Formada em Arquitetura de Dados, minha abordagem no BI vai além do visual: foco na integridade da modelagem dimensional e na performance dos modelos. Meu objetivo é criar soluções escaláveis, criativas e tecnicamente impecáveis que realmente facilitem a tomada de decisão.
 
-Mais do que construir dashboards, eu **entendo de onde os dados vêm**, como modelá-los com rigor e como garantir que as estruturas que os suportam sejam sólidas e performáticas. Esse olhar integrado é o que define meu posicionamento profissional.
-
-- ◆ **Foco atual:** Construção de portfólio end-to-end com pipeline Python → MySQL → Power BI
-- ◆ **Objetivo:** Posições de BI Lead ou Analytics Engineer
-- ◆ **Diferencial:** Visão completa entre Arquitetura, DBA e Análise — rastreio problemas até a raiz
-- ◆ **Método:** Aprendizado orientado a texto, exercícios práticos e projetos reais
+- ◆ **Experiencia:** 
+- ◆ **Objetivo:** 
+- ◆ **Diferencial:** Visão completa entre Arquitetura, DBA e Análise
 
 ---
 
