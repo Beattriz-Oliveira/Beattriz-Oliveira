@@ -36,7 +36,7 @@ Olá, sou Beattriz Sant’ana, Analista de BI com foco em transformar dados brut
 #### ◆ Business Intelligence & Visualização
 <div>
 
-![Power BI](https://img.shields.io/badge/Power_BI-0A0A1A?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Power BI](https://img.shields.io/badge/Power_BI-0A0A1A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0YyQzgxMSIgZD0iTTkuNDcgMjIuMzRWNy40MWMwLS40NS4zNi0uODEuODEtLjgxaDQuMzdjLjQ1IDAgLjgxLjM2LjgxLjgxdjE0LjkzYyAwIC40NS0uMzYuODEtLjgxLjgxaC00LjM3YS44MS44MSAwIDAgMS0uODEtLjgxWiIvPjxwYXRoIGZpbGw9IiNGRkU2NzkiIGQ9Ik0zLjE0IDIyLjM0di01Ljg2YyAwLS40NS4zNi0uODEuODEtLjgxaDQuMzdjLjQ1IDAgLjgxLjM2LjgxLjgxdjUuODZjMCAuNDUtLjM2LjgxLS44MS44MUgzLjk1YS44MS44MSAwIDAgMS0uODEtLjgxWiIvPjxwYXRoIGZpbGw9IiNFMzUxMEMiIGQ9Ik0xNS43OSAyMi4zNFYxLjY2YzAtLjQ1LjM2LS44MS44MS0uODFoNC4zN2MuNDUgMCAuODEuMzYuODEuODF2MjAuNjhjMCAuNDUtLjM2LjgxLS44MS44MWgtNC4zN2EuODEuODEgMCAwIDEtLjgxLS44MVoiLz48L3N2Zz4=)
 ![Excel](https://img.shields.io/badge/Excel-0A0A1A?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-0A0A1A?style=for-the-badge&logo=googlesheets&logoColor=34A853)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-0A0A1A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=B7472A)
