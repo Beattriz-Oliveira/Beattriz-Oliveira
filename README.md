@@ -23,11 +23,11 @@
 
 ## ✦ Sobre mim
 
-Olá, sou Beattriz Sant’ana, Analista de BI com foco em transformar dados brutos em inteligência estratégica. Formada em Arquitetura de Dados, minha abordagem no BI vai além do visual: foco na integridade da modelagem dimensional e na performance dos modelos. Meu objetivo é criar soluções escaláveis, criativas e tecnicamente impecáveis que realmente facilitem a tomada de decisão.
+ Olá, sou Beattriz Sant'ana, Analista de BI com formação em Arquitetura de Dados. Minha abordagem vai além do visual: foco em modelagem dimensional sólida, Power Query estruturado e DAX com lógica de negócio real. Tenho experiência profissional construindo dashboards operacionais e estratégicos em ambiente institucional, lidando com bases complexas do zero até a entrega.
 
-- ◆ **Experiencia:** Ciclo completo do dado — da extração e modelagem dimensional em SQL até dashboards estratégicos, táticos e operacionais com cálculos avançados em DAX e pipelines ETL em Python
-- ◆ **Objetivo:** Atuar como Analista de BI Júnior entregando soluções end-to-end — do pipeline ao dashboard — com foco em performance e escalabilidade 
-- ◆ **Foco:** Integrar Arquitetura de Dados e DBA ao BI, garantindo modelagem dimensional sólida e consultas otimizadas como base para análises confiáveis
+- ◆ **Experiência**: Power BI, Power Query, DAX, RLS, Google Apps Script e automação de processos de dados
+- ◆ **Objetivo**: Atuar como Analista de BI Júnior entregando soluções end-to-end com modelagem confiável e dashboards que realmente apoiam decisões
+- ◆ **Diferencial**: Formação em Arquitetura de Dados aplicada ao BI — modelagem dimensional e estrutura de dados como base, não como acessório
 
 ---
 
