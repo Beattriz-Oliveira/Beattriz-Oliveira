@@ -23,9 +23,9 @@
 
 ## ✦ Sobre mim
 
- Olá, sou Beattriz Sant'ana, Analista de BI com formação em Arquitetura de Dados. Minha abordagem vai além do visual: foco em modelagem dimensional sólida, Power Query estruturado e DAX com lógica de negócio real. Tenho experiência profissional construindo dashboards operacionais e estratégicos em ambiente institucional, lidando com bases complexas do zero até a entrega.
+Olá, sou Beattriz Oliveira Sant'ana, Analista de BI com formação em Arquitetura de Dados. Minha abordagem vai além do visual: foco em modelagem dimensional sólida, Power Query estruturado e DAX com lógica de negócio real. Tenho experiência profissional construindo dashboards operacionais e estratégicos em ambiente institucional, lidando com bases complexas do zero até a entrega.
 
-- ◆ **Experiência**: Power BI, Power Query, DAX, RLS, Google Apps Script e automação de processos de dados
+- ◆ **Experiência**: Power BI, Power Query, DAX, Google Apps Script e automação de processos de dados
 - ◆ **Objetivo**: Atuar como Analista de BI Júnior entregando soluções end-to-end com modelagem confiável e dashboards que realmente apoiam decisões
 - ◆ **Diferencial**: Formação em Arquitetura de Dados aplicada ao BI — modelagem dimensional e estrutura de dados como base, não como acessório
 
@@ -33,33 +33,29 @@
 
 ## ✦ Tech Stack
 
-#### ◆ Business Intelligence & Visualização
+#### ◆ BI & Visualização
 <div>
 
 ![Power BI](https://img.shields.io/badge/Power_BI-0A0A1A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0YyQzgxMSIgZD0iTTkuNDcgMjIuMzRWNy40MWMwLS40NS4zNi0uODEuODEtLjgxaDQuMzdjLjQ1IDAgLjgxLjM2LjgxLjgxdjE0LjkzYyAwIC40NS0uMzYuODEtLjgxLjgxaC00LjM3YS44MS44MSAwIDAgMS0uODEtLjgxWiIvPjxwYXRoIGZpbGw9IiNGRkU2NzkiIGQ9Ik0zLjE0IDIyLjM0di01Ljg2YyAwLS40NS4zNi0uODEuODEtLjgxaDQuMzdjLjQ1IDAgLjgxLjM2LjgxLjgxdjUuODZjMCAuNDUtLjM2LjgxLS44MS44MUgzLjk1YS44MS44MSAwIDAgMS0uODEtLjgxWiIvPjxwYXRoIGZpbGw9IiNFMzUxMEMiIGQ9Ik0xNS43OSAyMi4zNFYxLjY2YzAtLjQ1LjM2LS44MS44MS0uODFoNC4zN2MuNDUgMCAuODEuMzYuODEuODF2MjAuNjhjMCAuNDUtLjM2LjgxLS44MS44MWgtNC4zN2EuODEuODEgMCAwIDEtLjgxLS44MVoiLz48L3N2Zz4=)
 ![Excel](https://img.shields.io/badge/Excel-0A0A1A?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-0A0A1A?style=for-the-badge&logo=googlesheets&logoColor=34A853)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-0A0A1A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=B7472A)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0A0A1A?style=for-the-badge&logo=microsoftpowerautomate&logoColor=0078D4)
 
 </div>
 
-#### ◆ Dados & Programação
+#### ◆ ETL & Dados
 <div>
 
 ![Python](https://img.shields.io/badge/Python-0A0A1A?style=for-the-badge&logo=python&logoColor=c8b8ff)
-![R](https://img.shields.io/badge/R-0A0A1A?style=for-the-badge&logo=r&logoColor=276DC3)
 ![MySQL](https://img.shields.io/badge/MySQL-0A0A1A?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![SQL](https://img.shields.io/badge/SQL-0A0A1A?style=for-the-badge&logo=database&logoColor=c8b8ff)
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-0A0A1A?style=for-the-badge&logo=google&logoColor=c8b8ff)
 
 </div>
 
-#### ◆ Infraestrutura & Ferramentas
+#### ◆ Automação & Infraestrutura
 <div>
 
+![Power Automate](https://img.shields.io/badge/Power_Automate-0A0A1A?style=for-the-badge&logo=microsoftpowerautomate&logoColor=0078D4)
 ![Aiven](https://img.shields.io/badge/Aiven-0A0A1A?style=for-the-badge&logo=aiven&logoColor=FF3D57)
-![Git](https://img.shields.io/badge/Git-0A0A1A?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0A0A1A?style=for-the-badge&logo=github&logoColor=c8b8ff)
 
 </div>
 
@@ -70,22 +66,11 @@
 ### 🔷 Global Store Performance
 > Pipeline completo de dados — do ETL ao dashboard executivo
 
-Pipeline end-to-end construído com **Python**, banco de dados **MySQL na nuvem (Aiven)** e dashboard de **3 páginas no Power BI**. Abrange modelagem dimensional, tratamento de dados, carga automatizada e análise de performance global de lojas.
+Pipeline end-to-end construído com **Python**, banco de dados **MySQL na nuvem (Aiven)** e dashboard de **3 páginas no Power BI**. Abrange modelagem dimensional Star Schema, tratamento de dados, carga automatizada e análise de performance global de lojas.
 
 `Python` `MySQL` `Aiven` `Power BI` `ETL` `Modelagem Dimensional`
 
 🔗 [Ver repositório](https://github.com/SEU_USUARIO/global-store-performance) · 📊 [Ver dashboard no Power BI Service](SUA_URL_POWER_BI)
-
----
-
-### 🔷 Pousada Acalanto
-> Reforma arquitetural completa de um projeto de dados real
-
-Reformulação de um sistema de dados para uma pousada fictícia com área de loja integrada. Inclui **modelagem corrigida em dois domínios** (Hospedagem e Loja), pipeline ETL, objetos DBA e **6 visões analíticas** para Power BI.
-
-`SQL` `Python` `Power BI` `DBA` `Arquitetura de Dados` `ETL`
-
-🔗 [Ver repositório](https://github.com/SEU_USUARIO/pousada-acalanto)
 
 ---
 
@@ -101,13 +86,12 @@ Reformulação de um sistema de dados para uma pousada fictícia com área de lo
 
 ---
 
-## ✦ Contatos
+## ✦ Contato
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Beatriz-0A0A1A?style=for-the-badge&logo=linkedin&logoColor=c8b8ff)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-SEU_EMAIL-0A0A1A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:SEU_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-@SEU_USUARIO-0A0A1A?style=for-the-badge&logo=github&logoColor=c8b8ff)](https://github.com/SEU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Beattriz-0A0A1A?style=for-the-badge&logo=linkedin&logoColor=c8b8ff)](https://www.linkedin.com/in/beattriz-sant-ana/)
+[![Gmail](https://img.shields.io/badge/Gmail-beattrizsantana1452-0A0A1A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:Beattrizsantana1452@gmail.com)
 
 </div>
 
