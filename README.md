@@ -76,7 +76,6 @@ Sou Beattriz Oliveira Sant'ana, Analista de BI formada em Arquitetura de Dados. 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A1A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjRjI1NDVCIj48cGF0aCBkPSJNMTcgMmE1IDUgMCAwIDEgNSA1djEwYTUgNSAwIDAgMSAtNSA1aC0xMGE1IDUgMCAwIDEgLTUgLTV2LTEwYTUgNSAwIDAgMSA1IC01em0tOSA4YTEgMSAwIDAgMCAtMSAxdjVhMSAxIDAgMCAwIDIgMHYtNWExIDEgMCAwIDAgLTEgLTFtNiAwYTMgMyAwIDAgMCAtMS4xNjggLjIzNmwtLjEyNSAuMDU3YTEgMSAwIDAgMCAtMS43MDcgLjcwN3Y1YTEgMSAwIDAgMCAyIDB2LTNhMSAxIDAgMCAxIDIgMHYzYTEgMSAwIDAgMCAyIDB2LTNhMyAzIDAgMCAwIC0zIC0zbTYgLTNhMSAxIDAgMCAwIC0uOTkzIC44ODNsLS4wMDcgLjEyN2ExIDEgMCAwIDAgMS45OTMgLjExN2wuMDA3IC0uMTI3YTEgMSAwIDAgMCAtMSAtMSIvPjwvc3ZnPg==)](https://www.linkedin.com/in/beattriz-sant-ana/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0A0A1A?style=for-the-badge&logo=whatsapp&logoColor=F2545B)](https://wa.me/5562986239094)
 [![Gmail](https://img.shields.io/badge/Gmail-0A0A1A?style=for-the-badge&logo=gmail&logoColor=F2545B)](mailto:Beattrizsantana1452@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-0A0A1A?style=for-the-badge&logo=googledocs&logoColor=F2545B)](https://beattriz-portfolio.framer.website/)
 
 </div>
 
