@@ -66,7 +66,7 @@ Sou Beattriz Oliveira Sant'ana, Analista de BI formada em Arquitetura de Dados. 
 | | |
 | :---: | :--- |
 | <a href="https://github.com/Beattriz-Oliveira/bi-global-superstore"><img src="https://raw.githubusercontent.com/Beattriz-Oliveira/bi-global-superstore/main/assets/Thumbnail.png" width="400px" alt="Thumbnail Global Superstore" /></a> | **♦️ Global Store Performance** — Pipeline end-to-end com **Python**, banco **Supabase** e dashboard de 3 páginas no **Power BI**, com modelagem dimensional Star Schema.<br><br>`Python` `Supabase` `Power BI` `ETL` `Modelagem Dimensional` |
-| <a href="https://github.com/Beattriz-Oliveira/despesas-parlamentares-arthur-lira"><img src="https://raw.githubusercontent.com/Beattriz-Oliveira/despesas-parlamentares-arthur-lira/main/assets/dashboard_preview.png" width="400px" alt="Thumbnail Despesas Parlamentares" /></a> | **♦️ Despesas Parlamentares — Arthur Lira** — Workflow automatizado via **GitHub Actions** que coleta mensalmente dados da API da Câmara dos Deputados, enriquece e carrega em banco **Supabase**, conectado a um dashboard **Power BI**.<br><br>`GitHub Actions` `API` `Supabase` `Power BI` |
+| <a href="https://github.com/Beattriz-Oliveira/despesas-parlamentares-arthur-lira"><img src="https://github.com/Beattriz-Oliveira/despesas-parlamentares-arthur-lira/blob/main/assets/Thumbnail.jpg" width="400px" alt="Thumbnail Despesas Parlamentares" /></a> | **♦️ Despesas Parlamentares — Arthur Lira** — Workflow automatizado via **GitHub Actions** que coleta mensalmente dados da API da Câmara dos Deputados, enriquece e carrega em banco **Supabase**, conectado a um dashboard **Power BI**.<br><br>`GitHub Actions` `API` `Supabase` `Power BI` |
 ---
 
 ## ✦ Contato
