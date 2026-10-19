@@ -23,11 +23,11 @@
 
 ## ✦ Sobre mim
 
-Sou Beattriz Oliveira Sant'ana, Analista de BI formada em Arquitetura de Dados. Meu diferencial é unir arquitetura, modelagem e visualização, eu entendo os dados desde a origem até o gráfico final, não só a camada de apresentação. Isso se traduz em modelagem dimensional sólida, Power Query estruturado e DAX com lógica de negócio real. Tenho experiência prática construindo dashboards operacionais e estratégicos, lidando com bases complexas do zero até a entrega.
+Sou Beattriz Oliveira Sant'ana, Analista de Dados formada em Arquitetura de Dados. Meu diferencial é unir arquitetura, modelagem e visualização, eu entendo os dados desde a origem até o gráfico final, não só a camada de apresentação. Isso se traduz em modelagem dimensional sólida, Power Query estruturado e DAX com lógica de negócio real. Tenho experiência prática construindo dashboards operacionais e estratégicos, lidando com bases complexas do zero até a entrega.
 
 -  **Experiência**: Power BI, Power Query, DAX, Google Apps Script
--  **Objetivo**: Atuar como Analista de BI Júnior entregando soluções end-to-end com modelagem confiável e dashboards que realmente apoiam decisões
--  **Diferencial**: Formação em Arquitetura de Dados aplicada ao BI, modelagem dimensional e estrutura de dados como base, não como acessório
+-  **Objetivo**: Atuar como Analista de Dados Júnior, desenvolvendo soluções analíticas com modelagem confiável e dashboards que apoiem a tomada de decisão
+-  **Diferencial**: Formação em Arquitetura de Dados aplicada ao BI, com foco em modelagem dimensional e estruturas de dados como fundamento para análises confiáveis, não apenas para visualização
 
 ---
 
