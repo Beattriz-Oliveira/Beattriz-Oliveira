@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2545B,100:1A1A2E&height=180&section=header&text=Beattriz%20Oliveira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20de%20Dados&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2545B,100:1A1A2E&height=180&section=header&text=Beattriz%20Oliveira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Dados&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=F2545B&center=true&vCenter=true&width=600&lines=Transformo+dados+brutos+em+decis%C3%B5es;Da+arquitetura+ao+dashboard+final;Modelagem+s%C3%B3lida+%2B+visualiza%C3%A7%C3%A3o+clara" alt="Typing SVG" />
